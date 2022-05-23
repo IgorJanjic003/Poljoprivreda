@@ -1,0 +1,14 @@
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\bin\Debug\PoljoprivredniKombinat.exe.config
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\bin\Debug\PoljoprivredniKombinat.exe
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\bin\Debug\PoljoprivredniKombinat.pdb
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.Form1.resources
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.Properties.Resources.resources
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.Sifarnik.resources
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.exe
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.pdb
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.Proizvodi.resources
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.UnosProizvoda.resources
+C:\Users\Igor\source\repos\PoljoprivredniKombinat\obj\Debug\PoljoprivredniKombinat.Sadrzaj.resources
